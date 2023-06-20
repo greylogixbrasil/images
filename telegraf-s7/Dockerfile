@@ -1,4 +1,3 @@
-# syntax=docker/dockerfile:1
 FROM bitnami/git AS git-s7comm
 RUN git clone https://github.com/nicolasme/s7comm.git
 
