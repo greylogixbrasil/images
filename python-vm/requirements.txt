@@ -1,0 +1,8 @@
+gunicorn
+dash
+dash-bootstrap-components
+influxdb-client
+pandas
+scikit-learn
+email-validator
+prophet
