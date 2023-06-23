@@ -1,5 +1,6 @@
 gunicorn
 dash
+dash-auth
 dash-bootstrap-components
 influxdb-client
 pandas
