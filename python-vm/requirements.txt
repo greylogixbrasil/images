@@ -4,6 +4,7 @@ dash-auth
 dash-bootstrap-components
 influxdb-client
 pandas
+openpyxl
 scikit-learn
 email-validator
 prophet
