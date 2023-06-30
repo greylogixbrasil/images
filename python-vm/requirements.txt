@@ -8,3 +8,7 @@ openpyxl
 scikit-learn
 email-validator
 prophet
+google-cloud-storage
+aiohttp
+fastparquet
+gcsfs
