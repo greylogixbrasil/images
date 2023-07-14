@@ -5,6 +5,7 @@ dash-bootstrap-components
 influxdb-client
 pandas
 openpyxl
+kaleido
 scikit-learn
 email-validator
 prophet
