@@ -8,6 +8,8 @@ openpyxl
 XlsxWriter
 kaleido
 scikit-learn
+feature-engine
+pyts
 email-validator
 prophet
 google-cloud-storage
