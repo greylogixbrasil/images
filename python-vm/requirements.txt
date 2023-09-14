@@ -1,5 +1,6 @@
 gunicorn
 dash
+celery
 dash-auth
 dash_daq
 dash-bootstrap-components
