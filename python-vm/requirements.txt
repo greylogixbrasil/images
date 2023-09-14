@@ -1,5 +1,6 @@
 gunicorn
 dash
+redis
 celery
 dash-auth
 dash_daq
