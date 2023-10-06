@@ -6,7 +6,7 @@ RUN apt-get update && \
 ENV LANG pt_BR.UTF-8
 ENV LC_ALL pt_BR.UTF-8
 RUN apt-get install curl
-RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+RUN curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh -y
 RUN pip install --upgrade pip
 COPY requirements.txt /root/requirements.txt
 RUN pip install -r /root/requirements.txt
